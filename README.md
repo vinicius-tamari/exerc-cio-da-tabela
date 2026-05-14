@@ -1,2 +1,2 @@
-# exerc-cio-da-tabela
+# exercicio-da-tabela
 tabela
